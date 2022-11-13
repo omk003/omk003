@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @omk003
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning python , computer science
+- 🌱 I’m currently learning Ai & ML , computer science.
 - 💞️ I’m looking to collaborate on python projects
+- 💻 Back-end Developer
 - 📫 How to reach me twitter - @Omk55065293
 
 <!---
