@@ -59,6 +59,6 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @omk003.<br>👀 I’m interested in coding. <br>🌱 I’m currently learning AI & ML, and computer science. <br>💞️ I’m looking to collaborate on Python projects. <br>💻 I'm a Back-end Developer. <br>♨️ I am also a Java developer. Always seeking patterns in technology rather than memorizing all the fancy stuff.</p>
+<p align="left">👋 Hi, I’m @omk003.<br>👀 I’m interested in coding. <br>🌱 I’m currently learning AI & ML, and computer science. <br>💞️ I’m looking to collaborate on Python projects. <br>💻 I'm a Back-end Developer. <br>♨️ I am also a Java developer. Always seeking patterns in technology rather than memorizing all the fancy stuff.<br> Gmail- orkawathe2003@gmail.com</p>
 
 ###
